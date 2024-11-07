@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MgTYwOZuS9B+MJYDjvFSFwycFHgGwHZGKBbq9H96Ja94nFh37swIhiYSeaLoJAwHsXNn5vK33i7jEl4M2rBVdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zikol\\source\\repos\\EF\\Telegram-clone\\Telegram-clone-main\\TelegramClone.Core\\TelegramClone.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zikol\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\zikol\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
